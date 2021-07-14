@@ -1,2 +1,2 @@
-- 👋 Hola soyselene y estoy aprendiendo programación 🌱
+- 👋 Hola soy selene y estoy aprendiendo programación 🌱
 
